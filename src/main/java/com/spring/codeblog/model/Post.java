@@ -1,7 +1,6 @@
 package com.spring.codeblog.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import org.jetbrains.annotations.NotNull;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
